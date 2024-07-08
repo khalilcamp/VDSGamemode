@@ -1,0 +1,18 @@
+RDV.LIBRARY.AddLang("en", {
+    EVENT_addonLabel = "Events",
+    EVENT_livesAndTimer = "Lives & Timer",
+    EVENT_livesCounter = "Lives",
+    EVENT_livesCount = "Lives Count",
+    EVENT_spawnNoLives = "Enable spawning with zero lives",
+    EVENT_timerLabel = "Timer",
+    EVENT_timerLength = "Timer Length",
+    EVENT_spawnNoTime = "Enable spawning with zero time",
+    EVENT_setLabel = "Set",
+    EVENT_otherOptions = "Other",
+    EVENT_toggleLocked = "Lock & Unlock Doors",
+    EVENT_jamWeapons = "Jam Weapons (TFA Only)",
+    EVENT_flashlightDisabled = "Disable Flashlight",
+    EVENT_commandPostSpawn = "Auto Spawn on Command Posts",
+    EVENT_disableLabel = "Disable",
+    EVENT_enableLabel = "Enable",
+})

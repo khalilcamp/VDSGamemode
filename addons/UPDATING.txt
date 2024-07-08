@@ -1,0 +1,1 @@
+To update the script, delete the previously installed version in your garrysmod/addons/ folder, and then install the new one.

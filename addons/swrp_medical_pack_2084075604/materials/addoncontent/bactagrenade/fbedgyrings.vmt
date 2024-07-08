@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "addoncontent\bactagrenade\fbedgyrings"
+	$surfaceprop "metalpanel"
+$envmap			env_cubemap
+$envmapmask "addoncontent\bactagrenade\fbedgyrings_s"
+}

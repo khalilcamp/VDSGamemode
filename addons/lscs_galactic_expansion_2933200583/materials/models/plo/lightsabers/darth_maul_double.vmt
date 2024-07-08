@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	$baseTexture "models\plo\lightsabers\darth_maul_double"
+	$surfaceprop flash
+	$halflambert 1
+}

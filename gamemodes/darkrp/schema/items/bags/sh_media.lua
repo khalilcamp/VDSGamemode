@@ -1,0 +1,10 @@
+ITEM.name = "Mochila Militar"
+ITEM.description = "Uma mochila boa para transportes de itens."
+ITEM.category = "Bolsas"
+ITEM.model = Model("models/niksacokica/misc/misc_backpack_02.mdl")
+ITEM.width = 2
+ITEM.height = 2
+ITEM.invWidth = 6
+ITEM.invHeight = 6
+ITEM.bDropOnDeath = true
+ITEM.weight = 2

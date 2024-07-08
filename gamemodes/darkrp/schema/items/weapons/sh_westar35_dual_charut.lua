@@ -1,0 +1,9 @@
+ITEM.name = "Westar-35 Dupla do Charut"
+ITEM.description = "Um par de pistolas baseadas no modelo padrão da Westar-35, pessoalmente modificada pessoalmente por Charut."
+ITEM.model = "models/jajoff/sps/cgiweapons/tc13j/westarm35_pistol.mdl"
+ITEM.skin = 3
+ITEM.class = "sw_charut_dual_westar35_pistols"
+ITEM.weaponCategory = "secondary"
+ITEM.price = 0
+ITEM.width = 2
+ITEM.height = 2

@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	$baseTexture "models\plo\lightsabers\anakin_saber"
+	$surfaceprop flash
+	$halflambert 1
+}

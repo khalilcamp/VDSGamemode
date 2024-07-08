@@ -1,0 +1,9 @@
+ITEM.name = "GALAAR-15 Alongada do Jasper"
+ITEM.description = "Um rifle de atirador baseado no modelo padrão da GALAAR-15 Alongada, pessoalmente modificada pessoalmente por Jasper."
+ITEM.model = "models/jajoff/sps/cgiweapons/tc13j/westarm35_sniper.mdl"
+ITEM.skin = 2
+ITEM.class = "sw_jasper_westar15"
+ITEM.weaponCategory = "primary"
+ITEM.price = 0
+ITEM.width = 4
+ITEM.height = 2

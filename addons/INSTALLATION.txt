@@ -1,0 +1,42 @@
+1. Add a Steam Workshop collection to your server
+
+http://wiki.garrysmod.com/page/Workshop_for_Dedicated_Servers
+
+=====================================================================
+2. Install GmodAdminSuite
+
+Add this to your server's Workshop collection
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1595332211
+
+=====================================================================
+3. Install the GmodAdminSuite config addon
+
+https://github.com/GmodAdminSuite/GmodAdminSuite-Config
+
+Installation instructions can be found on the GitHub page.
+
+=====================================================================
+4. Download the addon from GmodStore
+
+Click "Download Stable" on the addon's GmodStore page
+
+=====================================================================
+5. Install the addon
+
+Move the folder(s) which are inside the .zip you just downloaded from GmodStore into your server's garrysmod/addons/ directory (including the xeon-drm folder)
+
+=====================================================================
+6. Restart your server
+
+(If it was running already)
+
+=====================================================================
+7. Activate your licenses
+
+Join the server and follow the on-screen instructions - if you've already done this before, you probably won't need to do this again.
+
+=====================================================================
+8. Restart your server again
+
+And that's all folks.

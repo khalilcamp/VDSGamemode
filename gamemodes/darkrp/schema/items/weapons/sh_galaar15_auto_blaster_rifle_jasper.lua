@@ -1,0 +1,9 @@
+ITEM.name = "GALAAR-15 Automática"
+ITEM.description = "Uma metralhadora de modelo GALAAR-15 pessoalmente modificada por Jasper."
+ITEM.model = "models/jajoff/sps/cgiweapons/tc13j/westarm35_supercommando.mdl"
+ITEM.skin = 2
+ITEM.class = "sw_jaspers_westar12"
+ITEM.weaponCategory = "primary"
+ITEM.price = 0
+ITEM.width = 3
+ITEM.height = 2

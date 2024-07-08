@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\plo\lightsabers\Survior_hilt"
+	$bumpmap "models\plo\lightsabers\Survior_hilt_n"
+}

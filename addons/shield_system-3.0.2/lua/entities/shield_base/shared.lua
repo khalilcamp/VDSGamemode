@@ -1,0 +1,13 @@
+ENT.Type = "anim"
+ENT.Base = "base_anim"
+ENT.PrintName = "Shield Base"
+ENT.Author = "Joe + JackJack + Nvc"
+ENT.Spawnable = false
+ENT.AdminSpawnable = false
+ENT.Category = "Joe"
+ENT.AutomaticFrameAdvance = true
+ENT.shieldmodel = "models/jackjack/props/circle1.mdl"
+ENT.health = 100
+ENT.disabledtime = 60
+ENT.laserlength = 139
+ENT.size = 1

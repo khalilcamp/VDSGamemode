@@ -1,0 +1,22 @@
+RDV.LIBRARY.AddLang("en", {
+    MED_titleName = "Medals",
+    MED_adminName = "Admin",
+    MED_giveMedal = "Give Medal",
+    MED_seeMedals = "See Medals",
+    MED_givenBy = "Given By (%s)",
+    MED_noInfo = "No Information Available",
+    MED_givenMedal = "You've been given the Medal, (%s) by %s.",
+    MED_givenRewardMedal = "Você recebeu a Medalha, (%s) de %s com uma recompensa de %s.",
+    MED_maxMedals = "Atualmente você tem a quantidade máxima de (%s) medalhas",
+    MED_accessMedals = "Você pode acessar suas medalhas ganhas digitando !medals no chat!",
+    MED_maxAmountLabel = "Max Amount Achievable Per-Player (Optional)",
+    MED_iconLinkLabel = "Icon Link (Imgur)",
+    MED_nameLabel = "Name",
+    MED_cashLabel = "Cash Reward (Optional)",
+    MED_giveLabel = "Give",
+    MED_createLabel = "Create",
+    MED_uniqueIDLabel = "Unique ID",
+    MED_editLabel = "Edit",
+    MED_deleteLabel = "Delete",
+    MED_noPerms = "You have no permission to execute this command."
+})

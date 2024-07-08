@@ -1,0 +1,9 @@
+ITEM.name = "Escudo Pessoal"
+ITEM.description = "Um equipamento de defesa pessoal de uma unidade."
+ITEM.model = "models/cire992/props3/ammo_case_01.mdl"
+ITEM.class = "personal_shield"
+ITEM.weaponCategory = "grenade"
+ITEM.category = "Equipamentos"
+ITEM.price = 0
+ITEM.width = 1
+ITEM.height = 1

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "addoncontent\bactagrenade\fbbody"
+	$surfaceprop "slipperymetal"
+$envmap			env_cubemap
+$envmapmask "addoncontent\bactagrenade\fbbody_s"
+}

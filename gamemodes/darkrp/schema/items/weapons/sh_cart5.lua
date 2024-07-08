@@ -1,0 +1,9 @@
+ITEM.name = "Cartão Level 5"
+ITEM.description = "Um cartão simples de plástico, feito para manter segurança em certos níveis da base."
+ITEM.model = "models/gibs/metal_gib4.mdl"
+ITEM.class = "keycard_testclearance level #5"
+ITEM.weaponCategory = "cart"
+ITEM.category = "Cartões"
+ITEM.price = 0
+ITEM.width = 1
+ITEM.height = 1

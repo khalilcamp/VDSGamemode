@@ -1,0 +1,9 @@
+ITEM.name = "Westar-M5 do A-34"
+ITEM.description = "Uma arma pessoalmente modificada pelo ARC Alpha Class A-34."
+ITEM.model = "models/jajoff/sps/cgiweapons/tc13j/westarm5.mdl"
+ITEM.skin = 5
+ITEM.class = "sw_a34_westarm5s"
+ITEM.weaponCategory = "primary"
+ITEM.price = 0
+ITEM.width = 2
+ITEM.height = 2

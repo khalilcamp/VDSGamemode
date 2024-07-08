@@ -1,0 +1,8 @@
+"darkrp"
+{
+	"base"		"helix"
+	"title"		"Star Wars"
+	"author"	"nebulous.cloud"
+	"category"	"rp"
+	"menusystem" "1"
+}

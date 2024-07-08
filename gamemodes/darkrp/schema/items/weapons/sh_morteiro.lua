@@ -1,0 +1,9 @@
+ITEM.name = "Morteiro"
+ITEM.description = "Um poderoso morteiro, projetodado para atacar posições fortificadas ou defender locais contra ataques pesados."
+ITEM.model = "models/dolunity/starwars/mortar.mdl"
+ITEM.class = "mortar_constructor"
+ITEM.weaponCategory = "equip"
+ITEM.category = "Equipamentos"
+ITEM.price = 0
+ITEM.width = 1
+ITEM.height = 1

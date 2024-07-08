@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "addoncontent\bactagrenade\fblightsoff"
+	$surfaceprop "glass"
+}
